@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/DetectiveStart/FBX Meshes.zip
+Content/DetectiveStart/TGA Textures.zip
