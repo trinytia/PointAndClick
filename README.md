@@ -9,7 +9,7 @@ https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2477
 ## Myst
 https://en.wikipedia.org/wiki/Myst
 
-Let's play Myst remake
+Let's play du remake de Myst
 https://www.youtube.com/watch?v=8U7flA3yEX8&ab_channel=RECT_HYDRA
 
 ## Projet éducatif
