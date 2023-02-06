@@ -3,10 +3,8 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
-		}
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
